@@ -50,3 +50,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Create account
 - https://uploadthing.com/dashboard
 - https://docs.uploadthing.com/getting-started/appdir
+
+## Stripe
+
+- https://dashboard.stripe.com/test/dashboard
+- https://dashboard.stripe.com/test/webhooks
