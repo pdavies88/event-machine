@@ -32,6 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 - https://clerk.com/docs/quickstarts/nextjs
 - https://clerk.com/docs/references/nextjs/custom-signup-signin-pages
+- https://clerk.com/docs/backend-requests/making/custom-session-token
 - Clerk in app `Customize session token`
   - `"userId": "{{user.public_metadata.userId}}"`
 
