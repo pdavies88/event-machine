@@ -55,3 +55,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 - https://dashboard.stripe.com/test/dashboard
 - https://dashboard.stripe.com/test/webhooks
+
+## Tailwind
+
+- https://tailwindcss.com/
